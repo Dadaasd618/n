@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\bin\Debug\Практика.exe.config
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\bin\Debug\Практика.exe
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\bin\Debug\Практика.pdb
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\obj\Debug\Практика.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\obj\Debug\Практика.Form1.resources
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\obj\Debug\Практика.Properties.Resources.resources
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\obj\Debug\Практика.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\obj\Debug\Практика.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\obj\Debug\Практика.exe
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\obj\Debug\Практика.pdb
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Практика\29.05\Практика\Практика\obj\Debug\Практика.csproj.Up2Date
