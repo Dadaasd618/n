@@ -1,0 +1,6 @@
+id;module_id;MALFUNCTION;Date;ID_engineer
+11;11;ventilation system;01.10.2025 12:00;12
+12;12;failure power supply;02.10.2025 13:00;11
+13;13;problems with communication equipment;03.10.2025 14:00;13
+14;14;processor overheating;04.10.2025 15:00;14
+15;15;cooling fan failure;05.10.2025 16:00;15

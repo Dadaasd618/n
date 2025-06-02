@@ -1,0 +1,6 @@
+ID_services;ID_module;Date;Job description;Status;ID_engineer
+11;11;01.10.2025;routine maintenance;completed;12
+12;12;02.10.2025;replacement of components;completed;11
+13;13;03.10.2025;cleaning of the cooling system;completed;13
+14;14;04.10.2025;software update;completed;14
+15;15;05.10.2025;troubleshooting;completed;15
